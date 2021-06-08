@@ -2,4 +2,4 @@
 - topic: Online Dictionary Learning and Image Inpainting
 - creater: Jia-Wei Liao, Kuok-Tong Ng
 - data: 202101
-- institute: NYCU in Taiwan
+- institute: NCTU in Taiwan
