@@ -1,4 +1,4 @@
-# Sparse Dictionary Learning for Image Inpainting
+# Sparse_Dictionary_Learning_for_Image_Inpainting
 
 This repository is implementation of final project for Optimization for Data Science course in 2020 fall semester at National Chiao Tung University.
 
